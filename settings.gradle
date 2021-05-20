@@ -1,0 +1,4 @@
+include ':httplibrary'
+include ':mvplibrary'
+include ':app'
+rootProject.name = "My Application"
